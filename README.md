@@ -11,20 +11,26 @@ If you want to become a Full-Stack Web Developer and land your first job, below 
 - Front-end
   - Client
     - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207)
-      - :godmode: Bob Tabor :watch: 7 hours :notebook: 21 modules :chart_with_upwards_trend: Beginner
+      - :watch: 7 hours :notebook: 21 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor 
     - [JavaScript Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/javascript-fundamentals-for-absolute-beginners-14194)
-      - :godmode: Bob Tabor :watch: 7 hours :notebook: 35 modules :chart_with_upwards_trend: Beginner
+      - :watch: 7 hours :notebook: 35 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor 
     - [Developing in HTML5 with JavaScript and CSS3 Jump Start](https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223)
-      - :godmode: Jeremy Foster and Michael Palermo :watch: 5 hours :notebook: 6 modules :chart_with_upwards_trend: Intermediate to Advanced
+      - :watch: 5 hours :notebook: 6 modules :chart_with_upwards_trend: Intermediate to Advanced :godmode: Jeremy Foster and Michael Palermo
 - Back-end
   - Server
-    - [C# Fundamentals for Absolute Beginners]()
-    - [Programming in C# Jump Start]()
-    - [A Guide to Object-Oriented Practices]()
+    - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
+      - :watch: 8 hours :notebook: 24 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor
+    - [Programming in C# Jump Start](https://mva.microsoft.com/en-US/training-courses/programming-in-c-jump-start-14254)
+      - :watch: 7 hours :notebook: 8 modules :chart_with_upwards_trend: Beginner :godmode: Jerry Nixon and Daren May
+    - [A Guide to Object-Oriented Practices](https://mva.microsoft.com/en-US/training-courses/a-guide-to-objectoriented-practices-14329)
+      - :watch: 7 hours :notebook: 9 modules :chart_with_upwards_trend: Beginner :godmode: Bill Wagner and James Sturtevant 
   - ASP.NET MVC
-    - [Introduction to ASP.NET MVC]()
+    - [Introduction to ASP.NET MVC](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-mvc-8322)
+      - :watch: 6 hours :notebook: 7 modules :chart_with_upwards_trend: Beginner :godmode: Jon Galloway and Christopher Harrison
   - ASP.NET Core
   - Database
-    - [SQL Database Fundamentals]()
-    - [Designing Solutions for SQL Server]()
+    - [SQL Database Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944)
+      - :watch: 3 hours :notebook: 6 modules :chart_with_upwards_trend: Beginner :godmode: Graeme Malcolm and Chris Randall 
+    - [Designing Solutions for SQL Server](https://mva.microsoft.com/en-US/training-courses/designing-solutions-for-sql-server-8484)
+      - :watch: 5 hours :notebook: 5 modules :chart_with_upwards_trend: Beginner :godmode: Graeme Malcolm and Christian Bolton
 
