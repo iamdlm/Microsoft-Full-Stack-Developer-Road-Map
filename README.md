@@ -8,20 +8,20 @@ Being a Full-Stack Developer doesn’t mean that you have necessarily mastered e
 If you want to become a Full-Stack Web Developer and land your first job, below is a study guide with a list of things you should learn.
 
 ## Contents
-1. - Front-end
-   1.1. - Client
-        1.1.1. - HTML5 & CSS3 Fundamentals: Development for Absolute
-        1.1.2. - JavaScript Fundamentals for Absolute Beginners
-        1.1.3. - Developing in HTML5 with JavaScript and CSS3 Jump Start
-2. - Back-End
-   2.1. - Server
-        2.1.1. - C# Fundamentals for Absolute Beginners
-        2.1.2. - Programming in C# Jump Start
-        2.1.3. - A Guide to Object-Oriented Practices
-   2.2. - ASP.NET MVC
-        2.2.1. - Introduction to ASP.NET MVC
-   2.3. - ASP.NET Core
-   2.4. - Database
-        2.4.1. - SQL Database Fundamentals
-        2.4.2. - Designing Solutions for SQL Server
+- Front-end
+  - Client
+    - HTML5 & CSS3 Fundamentals: Development for Absolute
+    - JavaScript Fundamentals for Absolute Beginners
+    - Developing in HTML5 with JavaScript and CSS3 Jump Start
+- Back-End
+  - Server
+    - C# Fundamentals for Absolute Beginners
+    - Programming in C# Jump Start
+    - A Guide to Object-Oriented Practices
+  - ASP.NET MVC
+    - Introduction to ASP.NET MVC
+  - ASP.NET Core
+  - Database
+    - SQL Database Fundamentals
+    - Designing Solutions for SQL Server
 
