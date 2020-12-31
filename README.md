@@ -10,11 +10,11 @@ If you want to become a Full-Stack Web Developer and land your first job, below 
 ## Contents
 - Client / Front-end 
   - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207)
-  - :watch: 7 hours :notebook: 21 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor 
+    - :watch: 7 hours :notebook: 21 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor 
   - [JavaScript Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/javascript-fundamentals-for-absolute-beginners-14194)
-  - :watch: 7 hours :notebook: 35 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor 
+    - :watch: 7 hours :notebook: 35 modules :chart_with_upwards_trend: Beginner :godmode: Bob Tabor 
   - [Developing in HTML5 with JavaScript and CSS3 Jump Start](https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223)
-  - :watch: 5 hours :notebook: 6 modules :chart_with_upwards_trend: Intermediate to Advanced :godmode: Jeremy Foster and Michael Palermo
+    - :watch: 5 hours :notebook: 6 modules :chart_with_upwards_trend: Intermediate to Advanced :godmode: Jeremy Foster and Michael Palermo
 - Server / Back-end
   - C#
     - [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
